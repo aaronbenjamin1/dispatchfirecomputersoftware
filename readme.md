@@ -1,10 +1,10 @@
-# Fire Computer Software (FCS)
+# Fire Computer Software - Dispatch(FCSD)
 
-The Fire Computer Software is an application made for real life fire departments. As of right now it's still in development and has yet to reach alpha stage. This application is meant to be state of the art and will provide dispatchers and firefighters with information quicker.
+The Fire Computer Software - Dispatch links together with [Fire Computer Software](https://github.com/aaronbenjamin1/firecomputersoftware) giving the dispatcher the ability to monitor firefighters and other rescue teams.
 
 ## Installation
 
-As of right now, it's not published so you're going to need Visual Studio to run it and test it.
+There's not much to test other than a little bit of the UI but if you want, go ahead and download the FCSDispatch.exe file to get a look.
 
 ## Dependencies
 
