@@ -1,4 +1,4 @@
-# Fire Computer Software - Dispatch(FCSD)
+# Fire Computer Software - Dispatch (FCSD)
 
 The Fire Computer Software - Dispatch links together with [Fire Computer Software](https://github.com/aaronbenjamin1/firecomputersoftware) giving the dispatcher the ability to monitor firefighters and other rescue teams.
 
